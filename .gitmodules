@@ -1,0 +1,6 @@
+[submodule "ComfyUI-mtb"]
+	path = ComfyUI-mtb
+	url = https://github.com/melMass/comfy_mtb.git
+[submodule "ComfyUI-Custom-Scripts"]
+	path = ComfyUI-Custom-Scripts
+	url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
